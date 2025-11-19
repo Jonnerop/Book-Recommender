@@ -1,13 +1,12 @@
 # Book Recommender (SVD)
 
-Book Recommender is a Python-based project that builds a personalized book recommendation system using Singular Value Decomposition (SVD). The project was developed as part of a data processing and machine learning course, following the CRISP-DM process. The goal is to explore how collaborative filtering can be applied to a real-world dataset to predict user ratings and suggest new books.
+Book Recommender is a Python project that builds a personalized book recommendation system using Singular Value Decomposition (SVD). The project was developed as part of a data processing and machine learning course, following the CRISP-DM process model. The goal is to explore how collaborative filtering can be applied to a real-world dataset to predict user ratings and suggest new books.
 
 ---
 
 ## Features
 
 - **SVD-Based Collaborative Filtering**: Learns latent user and item factors from rating data using matrix factorization.
-- **CRISP-DM Structure**: Includes business understanding, data exploration, preparation, modeling, evaluation, and deployment.
 - **Data Exploration & Visualization**: Rating distributions, user activity, sparsity levels, and error histograms.
 - **Top-N Recommendation Function**:  Generates personalized book suggestions for any user.
 - **Custom User Profiles**:  Supports adding external rating profiles to test personalized recommendations.
