@@ -66,15 +66,6 @@ Book Recommender is a Python project that builds a personalized book recommendat
 
 ---
 
-## Future Enhancements
-
-* Hyperparameter tuning for improved accuracy
-* Hybrid model combining metadata with collaborative filtering
-* Web-based frontend for interactive recommendations
-* Cold-start handling using popularity-based suggestions
-
----
-
 ## Contributors
 
 * Ade Aiho
